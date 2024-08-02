@@ -157,4 +157,4 @@ const KeyBoard = () => {
   );
 };
 
-export default FAQPage;
+export default KeyBoard;
