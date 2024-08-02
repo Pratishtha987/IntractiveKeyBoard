@@ -38,7 +38,7 @@ const SocialIcon = ({ icon, color }) => (
   </div>
 );
 
-const FAQPage = () => {
+const KeyBoard = () => {
   const [pressedKey, setPressedKey] = useState(null);
 
   const handleKeyPress = (key) => {
